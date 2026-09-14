@@ -1,6 +1,6 @@
 print("Python lop u") #asdalkdjslkajd saldksjldka sdlakjdslka dlkasjdlkasd alksjdlask ds
 
-##aksdjhkjda kjashdkjasd kjashdkjas
-#kajhdkjah
+#djhkjda kjashdkjasd kjashdkjas
+#kajh
 print("ini adalah update")
-#ini adalah hapus
+#ini adalah
