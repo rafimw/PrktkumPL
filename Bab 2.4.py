@@ -1,0 +1,5 @@
+nama_variable = input("NAMA	= ") 
+nama_variable = input("UMUR	= ") 
+nama_variable = input("KAMPUS = ") 
+nama_variable = input("JURUSAN = ") 
+nama_variable = input("MATKUL  = ")
